@@ -1,0 +1,4 @@
+hi i am rohan
+Reactjs 
+firebase
+git restore --staged name.txt // to restore add
