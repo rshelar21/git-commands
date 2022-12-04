@@ -8,4 +8,4 @@ to use stash
 first git add . and git status
 git stash // go back to earlier project 
 git stash pop // undo your stash
-
+git stash clear // remove your stash
